@@ -35,7 +35,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img style="width:88%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sedi98&layout=compact&theme=radical" alt="GitHub Stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sedi98&layout=compact&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
